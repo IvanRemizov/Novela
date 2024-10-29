@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=3 uid="uid://d20pno8adnmtn"]
+
+[ext_resource type="Texture2D" uid="uid://dsl5srgrys6jo" path="res://286a094239825ed4f6a81b28f44836d8-pixelicious (1).png" id="1_ps3jp"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="286a094239825Ed4f6a81b28f44836d8-pixelicious(1)" type="Sprite2D" parent="."]
+position = Vector2(575, 325)
+scale = Vector2(2.25, 2.25)
+texture = ExtResource("1_ps3jp")
